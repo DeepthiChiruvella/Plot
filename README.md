@@ -1,2 +1,7 @@
-# Plot
-The Python script (plot_script.py) utilizes the matplotlib library to create a basic line plot with provided data, allowing customization of labels and title. It accepts a command line argument for the output file name, saving the plot as an image file 
+# hello-world
+Hello World repository for Git tutorial
+This is an example repository for the Git tutoial on https://www.w3schools.com
+
+This repository is built step by step in the tutorial.
+
+this is the new line
